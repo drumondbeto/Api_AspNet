@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\Web API ASP.NET Core\\Web API ASP.NET Core.csproj",
+      "projectUniqueName": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\Web API ASP.NET Core.csproj",
       "projectName": "Web API ASP.NET Core",
-      "projectPath": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\Web API ASP.NET Core\\Web API ASP.NET Core.csproj",
+      "projectPath": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\Web API ASP.NET Core.csproj",
       "packagesPath": "C:\\Users\\humbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\Web API ASP.NET Core\\obj\\",
+      "outputPath": "C:\\Users\\humbe\\source\\repos\\Api_AspNet\\Api_AspNet\\Web API ASP.NET Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\humbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
