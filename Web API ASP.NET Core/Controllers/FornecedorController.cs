@@ -12,7 +12,15 @@ namespace Web_API_ASP.NET_Core.Controllers
         [HttpGet]
         public ActionResult ObterFornecedor()
         {
+            var fornecedor = new Data.ApplicationDbContext().Fornecedor.ToList();
 
+            if (!fornecedor.Any())
+            {
+                AdicionarErro("Não há elementos na lista de participantes.");
+                return CustomResponse();
+            }
+
+            return CustomResponse(fornecedor);
         }
     }
 }
