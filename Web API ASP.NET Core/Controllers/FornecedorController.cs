@@ -10,6 +10,9 @@ namespace Web_API_ASP.NET_Core.Controllers
     public class FornecedorController : MainController
     {
         [HttpGet]
+        public ActionResult ObterFornecedor()
+        {
 
+        }
     }
 }
