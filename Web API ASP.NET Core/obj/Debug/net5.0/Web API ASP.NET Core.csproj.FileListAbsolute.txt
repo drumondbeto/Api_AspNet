@@ -1,0 +1,38 @@
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\appsettings.json
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.exe
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.deps.json
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.runtimeconfig.json
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\ref\Web API ASP.NET Core.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Web API ASP.NET Core.pdb
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Humanizer.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Npgsql.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\staticwebassets\Web API ASP.NET Core.StaticWebAssets.Manifest.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\staticwebassets\Web API ASP.NET Core.StaticWebAssets.xml
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\scopedcss\bundle\Web API ASP.NET Core.styles.css
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.RazorTargetAssemblyInfo.cache
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.csproj.CopyComplete
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\ref\Web API ASP.NET Core.dll
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.pdb
+C:\Users\humbe\source\repos\Api_AspNet\Api_AspNet\Web API ASP.NET Core\obj\Debug\net5.0\Web API ASP.NET Core.genruntimeconfig.cache
