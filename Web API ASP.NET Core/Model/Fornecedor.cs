@@ -12,7 +12,7 @@ namespace Web_API_ASP.NET_Core.Model
         public Guid Id { get; set; } = Guid.NewGuid();
 
         [Required]
-        [StringLength(3, ErrorMessage = "O campo {0} deve ter entre {1} e {2} caracteres.", MinimumLength = 80)]
+        [StringLength(80, ErrorMessage = "O campo {0} deve ter entre {1} e {2} caracteres.", MinimumLength = 3)]
         public string Nome { get; set; }
 
         [Required]
